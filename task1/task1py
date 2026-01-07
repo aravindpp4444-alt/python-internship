@@ -1,0 +1,8 @@
+Name =input ("enter your name:")
+age = input ("enter your age:")
+location = input("enter your location:")
+
+print("\n----userbio---")
+print(f"\nName : {Name}")
+print(f"\nAge: {age}")
+print(f"\nLocation: {location}")
